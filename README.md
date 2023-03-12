@@ -4,6 +4,8 @@ Todo Python is a desktop application developed in Python, which allows you to ea
 
 ## Download App
 
+## Install App
+
 ## Contribute
 If you want to contribute to the improvement of this project, you can create an issue or submit a pull request on GitHub.
 
